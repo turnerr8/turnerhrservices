@@ -1,0 +1,10 @@
+//quote breaks
+@media (max-width: 750px) {
+    .carousel-item {
+        blockquote {
+            padding: 10px;
+            padding-left: 2em;
+            font-size: 1em;
+        }
+    }
+}

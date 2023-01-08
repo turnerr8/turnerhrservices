@@ -1,0 +1,10 @@
+//overarching sass file just imports
+
+
+//bootstrap
+@import "../bootstrap/css/bootstrap";
+@import "./_variables";
+@import "./_custom";
+@import "./_hero";
+@import "./_general-services";
+@import "./_media-queries";

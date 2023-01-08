@@ -1,0 +1,172 @@
+
+
+#content {
+  background-color: white;
+  z-index: 1;
+}
+
+#logo {
+  height: 4em;
+}
+
+nav {
+  background-color: white;
+  margin-bottom: 4em;
+}
+
+#post-hero-text {
+  margin: 5em auto 3em auto;
+  
+}
+@media (min-width: 992px) {
+  #post-hero-text {
+    max-width: 75vw;
+  }
+}
+
+
+.box {
+  overflow: hidden;
+  background-color: black;
+  height: 30vh;
+
+  a{
+    text-decoration: none;
+  }
+
+  p {
+      position: relative;
+      text-align: center;
+      width: 100%;
+      opacity: 0;
+      bottom: 50%;
+      z-index: 4;
+      color: white;
+      font-size: 2em;
+      transition: .4s ease-in-out;
+
+  }
+
+  img {
+      width: 100%;
+     
+  }
+}
+
+.box:hover {
+  img {
+      opacity: .6;
+      filter: blur(2px);
+
+  }
+  p{
+      bottom: 70%;
+      opacity: 100%;
+  }
+}
+
+#footer {
+  p{
+    text-align: right;
+    color: whitesmoke;
+  }
+
+  a{
+    color: whitesmoke;
+    opacity: .9;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a:hover {
+    opacity: .7;
+  }
+}
+
+nav {
+  height: 15vh;
+  background-color: white;
+}
+
+#collapsibleNavbar {
+  background-color: white;
+}
+
+
+.company-logo {
+
+
+  img {
+    width: 100%;
+  }
+}
+
+#more-link {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.102), rgba(0, 0, 0, 0.453));
+}
+
+
+//carousel items
+#quotes-carousel {
+  background-color: #5e918f;
+}
+
+.carousel-item {
+  color: white;
+  
+  
+  blockquote {
+    //border-left: 3px solid white;
+    font-style: italic;
+    font-size: 1.25em;
+    line-height: 1.8em;
+    margin: 1.1em 0;
+    padding: 3em 2.5em;
+    position: relative;
+    transition: 0.2s border ease-in-out;
+    z-index: 0;
+
+  }
+
+  blockquote:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    //left: -4px;
+    height: 2em;
+    //background-color: $theme-green;
+    width: 5px;
+    margin-top: -1em;
+    font-size: 2.5em;
+
+  }
+  
+  blockquote:after {
+    content: "\201C";
+    position: absolute;
+    top: 50%;
+    left: -0.5em;
+    color:  white;
+    font-size: 7em;
+    font-style: normal;
+    line-height: 1em;
+    text-align: center;
+    text-indent: -2px;
+    width: 1em;
+    margin-top: -0.5em;
+    transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
+  }
+
+  blockquote:active:after {
+    transform: rotateY(360deg);
+  }
+
+  blockquote cite {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.8em;
+    margin-top: 1em;
+  }
+  
+
+}
