@@ -11277,7 +11277,7 @@ nav {
 .box {
   overflow: hidden;
   background-color: black;
-  height: 30vh;
+  height: 40vh;
 }
 .box a {
   text-decoration: none;
@@ -11287,7 +11287,7 @@ nav {
   text-align: center;
   width: 100%;
   opacity: 0;
-  bottom: 50%;
+  bottom: 30%;
   z-index: 4;
   color: white;
   font-size: 2em;
@@ -11464,5 +11464,10 @@ nav {
     padding: 10px;
     padding-left: 2em;
     font-size: 1em;
+  }
+}
+@media (min-width: 992px) {
+  #post-hero-text {
+    max-width: 75vw;
   }
 }/*# sourceMappingURL=styles.css.map */

@@ -9,8 +9,7 @@
                 <li class="nav-item"><a class = "nav-link mx-4" href="./general-services.php">General Services</a></li>
                 <li class="nav-item"><a class = "nav-link mx-4" href="">Recruitment</a></li>
                 <li class="nav-item"><a class = "nav-link mx-4" href="">Training</a></li>
-                <li class="nav-item"><a class = "nav-link mx-4" href="">Clients</a></li>
-                <li class="nav-item"><a class = "nav-link mx-4" href="">Endorsements</a></li>
+                <li class="nav-item"><a class = "nav-link mx-4" href="#client-list">Clients</a></li>
                 <li class="nav-item"><a class = "nav-link mx-4" href="">Contact</a></li>
             </div>
         </ul>

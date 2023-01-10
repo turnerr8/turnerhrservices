@@ -28,7 +28,7 @@ nav {
 .box {
   overflow: hidden;
   background-color: black;
-  height: 30vh;
+  height: 40vh;
 
   a{
     text-decoration: none;
@@ -39,7 +39,7 @@ nav {
       text-align: center;
       width: 100%;
       opacity: 0;
-      bottom: 50%;
+      bottom: 30%;
       z-index: 4;
       color: white;
       font-size: 2em;
@@ -94,8 +94,6 @@ nav {
 
 
 .company-logo {
-
-
   img {
     width: 100%;
   }
