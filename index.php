@@ -17,7 +17,8 @@ require_once './includes/header.php';
     <div class="container rounded px-5 py-3" id="post-hero-text">
         <div class="row">
             <div class="col-sm text-center">
-            <p class="h5">For over two decades, this has been Turner HR Services’ motto. Our goal
+            <p class="h5">
+                For over two decades, this has been Turner HR Services’ motto. Our goal
                  is to provide value-added expertise within the Human Resources field to help
                   you improve your business and maximize your mission. <br><br>
 
