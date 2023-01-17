@@ -16,6 +16,7 @@
         height: 90vh;
         padding: .5em 1em;
         border-radius: 10px;
+        overflow-y:scroll;
     }
     i{
         font-size: 3em;
@@ -26,5 +27,12 @@
         &:hover {
             opacity: .75;
         }
+    }
+    .title {
+        text-decoration: underline;
+        text-align: center;
+    }
+    ul {
+        padding: .5em;
     }
 }

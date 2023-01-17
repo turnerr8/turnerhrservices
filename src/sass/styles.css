@@ -11502,6 +11502,7 @@ nav {
   height: 90vh;
   padding: 0.5em 1em;
   border-radius: 10px;
+  overflow-y: scroll;
 }
 #popout i {
   font-size: 3em;
@@ -11510,4 +11511,11 @@ nav {
 }
 #popout i:hover {
   opacity: 0.75;
+}
+#popout .title {
+  text-decoration: underline;
+  text-align: center;
+}
+#popout ul {
+  padding: 0.5em;
 }/*# sourceMappingURL=styles.css.map */

@@ -37,7 +37,7 @@ require_once './includes/header.php';
     <?php
     include_once "./includes/quotes.php"; 
     include_once "./includes/client-list.php";
-  
+    include_once "./includes/contact.php";
     ?>
         
 
