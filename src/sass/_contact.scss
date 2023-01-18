@@ -1,0 +1,35 @@
+#contact {
+
+    padding: 4em 0;
+    background-color: lightgrey;
+
+    img {
+        width: 90%;
+    }
+    
+
+    .contact-info {
+        
+    }
+    #contact-links {
+        a{
+            color: black;
+            padding: 1em .5em;
+            text-decoration: none;
+            margin: 1em 0;
+            width: 70%;
+            background-color: gray;
+            border-radius: 10px;
+            
+            
+
+            &:hover {
+                opacity: .7;
+            }
+
+            i {
+                font-size: 1.5em;
+            }
+        }
+    }
+}

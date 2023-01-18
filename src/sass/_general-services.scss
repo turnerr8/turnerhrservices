@@ -6,3 +6,32 @@
     
 
 }
+
+#gen-ser-micro {
+    #gen-scroll {
+        width: 100vw;
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+        white-space: nowrap;
+        height: 100%;
+    }
+
+    .ser-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        white-space: normal;
+        text-align: center;
+        padding: .5em;
+        height: 100%;
+        background-color: lightblue;
+        * {
+            margin: .5em;
+            padding: .5rem;
+        }
+        i {
+            margin-bottom: 1em;
+        }
+    }
+}

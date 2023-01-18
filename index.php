@@ -31,10 +31,13 @@ require_once './includes/header.php';
     </div>
 
     <div id="block-nav" class="container-sm mb-5">
-        <?php include_once "./includes/sections-card.php"; ?>
+        <?php
+        include_once "./includes/sections-card.php"; 
+        ?>
     </div>
     
     <?php
+    include_once "./includes/gen-ser-micro.php";
     include_once "./includes/quotes.php"; 
     include_once "./includes/client-list.php";
     include_once "./includes/contact.php";
