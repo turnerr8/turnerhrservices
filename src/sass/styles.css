@@ -11473,12 +11473,23 @@ nav {
   background-repeat: no-repeat;
 }
 
+#gen-ser-micro {
+  /*@media screen and (max-width: 820px){
+
+      .col-3 {
+          width: 215px !important;
+      }
+  }*/
+}
 #gen-ser-micro #gen-scroll {
   width: 100vw;
   flex-wrap: nowrap;
   overflow-x: scroll;
   white-space: nowrap;
   height: 100%;
+}
+#gen-ser-micro .col-3 {
+  min-width: 250px !important;
 }
 #gen-ser-micro .ser-card {
   display: flex;
@@ -11488,8 +11499,10 @@ nav {
   white-space: normal;
   text-align: center;
   padding: 0.5em;
+  margin: 0.5em;
   height: 100%;
-  background-color: lightblue;
+  border: 2px solid rgba(86, 86, 86, 0.362);
+  border-radius: 10px;
 }
 #gen-ser-micro .ser-card * {
   margin: 0.5em;
@@ -11547,7 +11560,7 @@ nav {
 }
 
 #contact {
-  padding: 4em 0;
+  padding-top: 4em;
   background-color: lightgrey;
 }
 #contact img {
@@ -11559,8 +11572,9 @@ nav {
   text-decoration: none;
   margin: 1em 0;
   width: 70%;
-  background-color: gray;
+  background-color: white;
   border-radius: 10px;
+  border: 2px solid rgba(86, 86, 86, 0.362);
 }
 #contact #contact-links a:hover {
   opacity: 0.7;

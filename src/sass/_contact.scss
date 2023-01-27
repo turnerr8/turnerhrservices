@@ -1,6 +1,6 @@
 #contact {
 
-    padding: 4em 0;
+    padding-top: 4em;
     background-color: lightgrey;
 
     img {
@@ -8,9 +8,7 @@
     }
     
 
-    .contact-info {
-        
-    }
+    
     #contact-links {
         a{
             color: black;
@@ -18,8 +16,10 @@
             text-decoration: none;
             margin: 1em 0;
             width: 70%;
-            background-color: gray;
+            background-color: white;
             border-radius: 10px;
+            border: 2px solid rgba(86, 86, 86, 0.362);
+
             
             
 

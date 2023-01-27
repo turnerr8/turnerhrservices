@@ -22,4 +22,6 @@ $(document).ready(function () {
     $("#popout-exit").click(function(){
         popOut.hide();
     })
+
+    console.log($("#gen-scroll").children());
 });

@@ -1,4 +1,6 @@
+
 <div class="container-fluid p-0 my-5">
+
     <div class="carousel slide" id="quotes-carousel" data-ride="carousel">
         <div class="carousel-inner px-5">
 
