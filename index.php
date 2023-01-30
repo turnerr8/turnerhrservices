@@ -40,6 +40,7 @@ require_once './includes/header.php';
     include_once "./includes/gen-ser-micro.php";
     include_once "./includes/quotes.php"; 
     include_once "./includes/client-list.php";
+    include_once "./includes/recruitment.php";
     include_once "./includes/contact.php";
     ?>
         

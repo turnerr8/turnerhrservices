@@ -1,6 +1,6 @@
 <div id="gen-ser-micro" class="container-fluid">
     <h2 class="mb-2">General Services:</h2>
-    <div class="row py-4" id="gen-scroll" style="flex-wrap:nowrap">
+    <div class="row my-4">
         <div class="col-3">
             <div class="ser-card">
                 <h4>PERSONNEL POLICY MANUALS</h4>
@@ -25,6 +25,8 @@
                 <i class="fa-solid fa-gavel fa-2xl"></i>
             </div>
         </div>
+    </div>
+    <div class="row my-4">
         <div class="col-3">
             <div class="ser-card">
                 <h4>WORKER’S COMPENSATION</h4>
@@ -49,11 +51,6 @@
                 <i class="fa-solid fa-calculator fa-2xl"></i>
             </div>
         </div>
-        <div class="col-3">
-            <div class="ser-card">
-                <h4>EMPLOYEE CLIMATE SURVEYS</h4>
-                <i class="fa-regular fa-face-grin fa-2xl"></i>
-            </div>
-        </div>
+        
     </div>
 </div>

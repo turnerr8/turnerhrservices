@@ -1,8 +1,8 @@
 <div id="contact" class="mt-4">
     <div class="container-fluid">
-        <div class="row mt-5">
-            <div class="col-sm-6 d-flex align-content-center justify-content-center flex-column">
-                <img height=""src="./src/media/profile.jpeg" alt="Photo Kara Turner">
+        <div class="row  tan-bg">
+            <div class="col-sm-6 d-flex align-content-center justify-content-center flex-column py-5">
+                <img width="50%"src="./src/media/profile.jpeg" alt="Photo Kara Turner">
             </div>
             <div id="contact-links" class="col-sm-6 contact-info d-flex flex-column align-items-center justify-content-center text-center">
                 

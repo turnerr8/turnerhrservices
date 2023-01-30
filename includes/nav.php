@@ -8,9 +8,9 @@
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <li class="nav-item"><a class = "nav-link mx-4" href="./general-services.php">General Services</a></li>
                 <li class="nav-item"><a class = "nav-link mx-4" href="">Recruitment</a></li>
-                <li class="nav-item"><a class = "nav-link mx-4" href="">Training</a></li>
-                <li class="nav-item"><a class = "nav-link mx-4" href="#client-list">Clients</a></li>
-                <li class="nav-item"><a class = "nav-link mx-4" href="">Contact</a></li>
+                <li class="nav-item"><a class = "nav-link mx-4" href="./training.php">Training</a></li>
+                <li class="nav-item"><a class = "nav-link mx-4" href="./index.php#client-list">Clients</a></li>
+                <li class="nav-item"><a class = "nav-link mx-4" href="./index.php#contact">Contact</a></li>
             </div>
         </ul>
     </div>
