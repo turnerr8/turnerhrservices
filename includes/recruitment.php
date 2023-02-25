@@ -1,17 +1,32 @@
-<div class="container-fluid">
+<div class="container-fluid" id="recruitment">
     <h1>Recruitment</h1>
-    <div class="container-sm d-flex align-content-center justify-content-center flex-row bg-primary">
-        <div class="w-25">hello</div>
-        <div class="w-25">hello</div>
-        <div class="w-25">htmlspecialchars_decode</div>
+    <div class="container-sm text-center p-5">
+    Whether you need assistance in developing interview questions or help from start (recruitment) to finish (making the job offer), Turner HR Services can assist you in finding the right person for your job opening.
+
     </div>
-    <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores ducimus dolor soluta doloremque quasi in fugit? Repudiandae incidunt maxime sint architecto sequi illo harum distinctio id optio, quisquam animi.
+    <div class="container-sm d-flex align-content-center justify-content-center flex-row mb-5">
+        <div id="recruit-tags" class="d-flex">
+            <div class="col card-section active " id="pub-sec">
+                <div class="rec-card ">
+                <i class="fa-solid fa-scale-balanced fa-2xl"></i>
+                <h4>Public Sector</h4>
+                </div>
+            </div>
+            <div class="col card-section" id="priv-sec">
+                <div class="rec-card">
+                    <i class="fa-solid fa-scale-balanced fa-2xl"></i>
+                    <h4>Private Sector</h4>
+                </div>
+            </div>
+            <div class="col card-section" id="non-prof">
+                <div class="rec-card">
+                    <i class="fa-solid fa-scale-balanced fa-2xl"></i>
+                    <h4>Non-<br>Profits</h4>
+                </div>
+            </div>
+        </div>
     </div>
-    <div>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis ullam rem, velit saepe voluptatibus natus distinctio asperiores repudiandae voluptatem? Quos quibusdam natus maxime nam consequuntur nulla fugit dignissimos ea quaerat.
+    <div id="desc-box" class="container-sm">
     </div>
-    <div>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore quasi placeat explicabo. Dignissimos assumenda sint laboriosam reprehenderit temporibus repudiandae ex minima nulla, maxime autem laudantium? Non, error! Praesentium, deleniti sit!
-    </div>
+    
 </div>

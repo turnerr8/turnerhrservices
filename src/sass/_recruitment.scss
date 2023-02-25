@@ -1,0 +1,40 @@
+#recruitment {
+    .active {
+        background-color: rgb(222, 225, 222);
+    
+    }
+
+}
+#recruit-tags {
+    background-color: #5e918f;
+}
+
+.rec-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    white-space: normal;
+    text-align: center;
+    padding: .5em;
+    
+    &:hover {
+        background-color: rgb(222, 225, 222);
+    }
+    * {
+        margin: .5em;
+        padding: .5rem;
+    }
+    i {
+        margin-bottom: 1em;
+    }
+}
+
+
+.card-section{
+    cursor: pointer;
+}
+
+#desc-box {
+    
+}

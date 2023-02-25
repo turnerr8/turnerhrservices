@@ -96,7 +96,6 @@ nav {
   background-color: white;
 }
 
-
 .company-logo {
   img {
     width: 100%;
@@ -115,12 +114,7 @@ nav {
   }
 }
 
-
-
-
 //carousel items
-
-
 
 #quotes-carousel {
   background-color: #5e918f;
@@ -128,7 +122,6 @@ nav {
 
 .carousel-item {
   color: white;
-  
   
   blockquote {
     //border-left: 3px solid white;
@@ -140,7 +133,6 @@ nav {
     position: relative;
     transition: 0.2s border ease-in-out;
     z-index: 0;
-
   }
 
   blockquote:before {
@@ -153,7 +145,6 @@ nav {
     width: 5px;
     margin-top: -1em;
     font-size: 2.5em;
-
   }
   
   blockquote:after {

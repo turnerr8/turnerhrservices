@@ -1,56 +1,46 @@
-<div id="gen-ser-micro" class="container-fluid">
-    <h2 class="mb-2">General Services:</h2>
-    <div class="row my-4">
-        <div class="col-3">
+<div id="gen-ser-micro" class="container-sm">
+    <h2 class="mb-2 mx-5">Some Sevices We Offer...</h2>
+    <div class="row my-4 ">
+    
+        <div class="col-sm-4">
             <div class="ser-card">
-                <h4>PERSONNEL POLICY MANUALS</h4>
+                <h4>HR Audits</h4>
                 <i class="fa-solid fa-book fa-2xl"></i>
             </div>
         </div>
-        <div class="col-3">
+        <div class="col-sm-4">
             <div class="ser-card">
-                <h4>JOB ANALYSIS & JOB DESCRIPTION</h4>
-                <i class="fa-solid fa-book fa-2xl"></i>
-            </div>
-        </div>
-        <div class="col-3">
-            <div class="ser-card">
-                <h4>PERFORMANCE APPRAISALS SYSTEMS</h4>
+                <h4>Employee Handbooks</h4>
                 <i class="fa-solid fa-scale-balanced fa-2xl"></i>
             </div>
         </div>
-        <div class="col-3">
+        <div class="col-sm-4">
             <div class="ser-card">
-                <h4>REGULATORY COMPLIANCE</h4>
+                <h4>Job Descriptions</h4>
                 <i class="fa-solid fa-gavel fa-2xl"></i>
             </div>
         </div>
     </div>
     <div class="row my-4">
-        <div class="col-3">
+        <div class="col-sm-4">
             <div class="ser-card">
-                <h4>WORKER’S COMPENSATION</h4>
+                <h4>Workplace Surveys</h4>
                 <i class="fa-solid fa-file-invoice-dollar fa-2xl"></i>
             </div>
         </div>
-        <div class="col-3">
+        <div class="col-sm-4">
             <div class="ser-card">
-                <h4>HR FORMS & FILING SET-UP</h4>
+                <h4>Performance Management Systems</h4>
                 <i class="fa-solid fa-folder-open fa-2xl"></i>
             </div>
         </div>
-        <div class="col-3">
+        <div class="col-sm-4">
             <div class="ser-card">
-                <h4>WORKPLACE INVESTIGATIONS</h4>
+                <h4>Talent Aquisition</h4>
                 <i class="fa-solid fa-magnifying-glass fa-2xl"></i>
             </div>
         </div>
-        <div class="col-3">
-            <div class="ser-card">
-                <h4>GENERAL HR AUDIT</h4>
-                <i class="fa-solid fa-calculator fa-2xl"></i>
-            </div>
-        </div>
+        
         
     </div>
 </div>
