@@ -1,4 +1,4 @@
-<div class="container-fluid " id="client-list">
+<div class="container-fluid  px-5" id="client-list">
     <h2 class="center-text mb-5">Some companies we have helped...</h2>
     <div class="row d-flex justify-content-around my-4">
         <div class="company-logo d-flex align-items-center logo-box"> <img src="./src/media/rural collaborativelogo.webp" alt="Rural Collaborative logo"></div>

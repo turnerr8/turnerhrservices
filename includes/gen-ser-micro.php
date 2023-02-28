@@ -5,19 +5,19 @@
         <div class="col-sm-4">
             <div class="ser-card">
                 <h4>HR Audits</h4>
-                <i class="fa-solid fa-book fa-2xl"></i>
+                <img src="./src/media/icons/png/003-check-list.png" alt="" class="gen-ser-icon"></img>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="ser-card">
                 <h4>Employee Handbooks</h4>
-                <i class="fa-solid fa-scale-balanced fa-2xl"></i>
+                <img src="./src/media/icons/png/007-book.png" alt="" class="gen-ser-icon"></img>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="ser-card">
                 <h4>Job Descriptions</h4>
-                <i class="fa-solid fa-gavel fa-2xl"></i>
+                <img src="./src/media/icons/png/002-job-description.png" alt="" class="gen-ser-icon"></img>
             </div>
         </div>
     </div>
@@ -25,19 +25,21 @@
         <div class="col-sm-4">
             <div class="ser-card">
                 <h4>Workplace Surveys</h4>
-                <i class="fa-solid fa-file-invoice-dollar fa-2xl"></i>
+                <img src="./src/media/icons/png/008-feedback-1.png" alt="" class="gen-ser-icon"></img>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="ser-card">
                 <h4>Performance Management Systems</h4>
-                <i class="fa-solid fa-folder-open fa-2xl"></i>
+                <img src="./src/media/icons/png/001-feedback.png" alt="" class="gen-ser-icon"></img>
+
             </div>
         </div>
         <div class="col-sm-4">
             <div class="ser-card">
                 <h4>Talent Aquisition</h4>
-                <i class="fa-solid fa-magnifying-glass fa-2xl"></i>
+                <img src="./src/media/icons/png/009-recruitment.png" alt="" class="gen-ser-icon"></img>
+
             </div>
         </div>
         

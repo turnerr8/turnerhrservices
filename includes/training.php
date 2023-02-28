@@ -1,6 +1,6 @@
 <div class="container-fluid" id="training">
     <div class="row justify-content-center">
-        <button type = "button" id="train-more" class="btn btn-outline-info w-25">Trainings</button>
+        <button type = "button" id="train-more" class="btn btn-outline-info w-50">Trainings</button>
     </div>
 
     <div id="train-popout" style="display: none;">

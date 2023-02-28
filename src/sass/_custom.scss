@@ -70,13 +70,13 @@ nav {
 }
 
 #footer {
+  //margin-top: 3em;
   p{
     text-align: right;
-    color: whitesmoke;
   }
 
   a{
-    color: whitesmoke;
+    color: black;
     opacity: .9;
     text-decoration: none;
     font-weight: bold;
@@ -88,7 +88,7 @@ nav {
 }
 
 nav {
-  height: 15vh;
+  height: 12vh;
   background-color: white;
 }
 
@@ -183,5 +183,19 @@ nav {
     height: 20vw;
     padding: 1em;
     
+  }
+}
+
+//credits
+#credits {
+  background-color: lightgray;
+  font-size: .75em;
+  text-align: center;
+  
+
+}
+.contributions{
+  a{
+    color: rgb(166, 166, 166)
   }
 }
