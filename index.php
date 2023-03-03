@@ -45,7 +45,7 @@ require_once './includes/header.php';
         include_once "./includes/recruitment.php";
         include_once "./includes/contact.php";
         ?>
-        <div id="credits" class="container-fluid px-5 py-3 d-flex">
+        <div id="credits" class="container-fluid px-5 py-3 d-flex align-items-center justify-content-center">
             <div class="contributions w-33">Icons made by <a href="https://www.flaticon.com/authors/mavadee" title="mavadee">mavadee</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
             <div class="contributions w-33">Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
             <div class="contributions w-33">Icons made by <a href="https://www.flaticon.com/authors/fauzidea" title="FauzIDEA">FauzIDEA</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>

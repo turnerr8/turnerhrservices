@@ -18,6 +18,13 @@ nav {
   margin-bottom: 4em;
 }
 
+#nav-training{
+  cursor: pointer;
+}
+#training-card-trigger {
+  cursor: pointer;
+}
+
 #post-hero-text {
   margin: 5em auto 3em auto;
   
@@ -188,13 +195,15 @@ nav {
 
 //credits
 #credits {
-  background-color: lightgray;
   font-size: .75em;
   text-align: center;
+  flex-wrap: wrap;
+  
   
 
 }
 .contributions{
+  color:rgb(143, 143, 143);
   a{
     color: rgb(166, 166, 166)
   }

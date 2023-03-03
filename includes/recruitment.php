@@ -26,7 +26,7 @@
             </div>
         </div>
     </div>
-    <div id="desc-box" class="container-sm">
+    <div id="desc-box" class="container-sm px-5">
     </div>
     
 </div>

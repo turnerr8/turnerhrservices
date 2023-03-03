@@ -14,7 +14,7 @@
         <div id="surface" class="container-sm">
             <div class="d-flex flex-row justify-content-end"><i class="fa-solid fa-xmark" id="popout-exit"></i></div>
             <div class="row">
-                <div class="col-sm-4">
+                <div class="col-md-4">
                     <h4 class="title">Public Sector</h4>
                     <ul>
                         <li>Bellingham Library Board</li>
@@ -45,7 +45,7 @@
                         <li>Whatcom Transportation Authority</li>
                     </ul>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-md-4">
                     <h4 class="title">Non-Profit Organizations</h4>
                     <ul>
                         <li>Alzheimer Society of Washington</li>
@@ -70,7 +70,7 @@
                         <li>Whatcom Council of Aging</li>
                     </ul>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-md-4">
                     <h4 class="title">Healthcare Services</h4>
                     <ul>
                         <li>Bellingham Anesthesia Associates</li>
@@ -91,7 +91,7 @@
                         <li>Whatcom Alliance for Healthcare Access</li>
                     </ul>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-md-4">
                     <h4 class="title">Professional Services</h4>
                     <ul>
                         <li>Bellingham Capital</li>
@@ -104,7 +104,7 @@
                         <li>Summit Law Group</li>
                     </ul>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-md-4">
                     <h4 class="title">Construction, Manufacturing & Industrial Services</h4>
                     <ul>
                         <li>Andgar</li>
@@ -129,7 +129,7 @@
                         <li>Western Refinery Services</li>
                     </ul>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-md-4">
                     <h4 class="title">Retail & Other Services</h4>
                     <ul>
                         <li>APANA</li>

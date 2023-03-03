@@ -45,6 +45,14 @@ $(document).ready(function () {
         trainPop.hide();
     })
 
+    $("#nav-training").click(()=>{
+        trainPop.show();
+    });
+
+    $("#training-card-trigger").click(()=>{
+        trainPop.show();
+    })
+
 
 
     const publicSector=$("#pub-sec");

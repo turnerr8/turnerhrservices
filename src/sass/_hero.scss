@@ -33,15 +33,19 @@
         height: 100%;
         width: auto;
     }
+    
+}
+
+@media screen and (max-width: 987px){
     #hero {
-        height: 88vh;
+        height: 80vh;
     }
     .filter {
-        height: 88vh;
+        height: 80vh;
     }
     
     #hero-opening {
-        height: 85vh;
+        height: 80vh;
     }
     nav {
         height: 20vh;

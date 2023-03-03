@@ -7,8 +7,8 @@
             </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <li class="nav-item"><a class = "nav-link mx-4" href="#gen-ser-micro">General Services</a></li>
-                <li class="nav-item"><a class = "nav-link mx-4" href="#recruitment">Recruitment</a></li>
-                <li class="nav-item"><a class = "nav-link mx-4" href="#gen-ser-micro">Training</a></li>
+                <li class="nav-item"><a class = "nav-link mx-4" href="#recruitment">Talent Aquisition</a></li>
+                <li class="nav-item"><a class = "nav-link mx-4" id="nav-training">Training</a></li>
                 <li class="nav-item"><a class = "nav-link mx-4" href="#client-list">Clients</a></li>
                 <li class="nav-item"><a class = "nav-link mx-4" href="#contact">Contact</a></li>
             </div>

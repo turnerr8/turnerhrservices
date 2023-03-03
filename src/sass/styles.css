@@ -11150,6 +11150,14 @@ nav {
   margin-bottom: 4em;
 }
 
+#nav-training {
+  cursor: pointer;
+}
+
+#training-card-trigger {
+  cursor: pointer;
+}
+
 #post-hero-text {
   margin: 5em auto 3em auto;
 }
@@ -11287,11 +11295,14 @@ nav {
 }
 
 #credits {
-  background-color: lightgray;
   font-size: 0.75em;
   text-align: center;
+  flex-wrap: wrap;
 }
 
+.contributions {
+  color: rgb(143, 143, 143);
+}
 .contributions a {
   color: rgb(166, 166, 166);
 }
@@ -11328,14 +11339,16 @@ nav {
     height: 100%;
     width: auto;
   }
+}
+@media screen and (max-width: 987px) {
   #hero {
-    height: 88vh;
+    height: 80vh;
   }
   .filter {
-    height: 88vh;
+    height: 80vh;
   }
   #hero-opening {
-    height: 85vh;
+    height: 80vh;
   }
   nav {
     height: 20vh;
@@ -11376,7 +11389,7 @@ nav {
   min-width: 250px !important;
 }
 #gen-ser-micro .gen-ser-icon {
-  width: 40%;
+  width: 30%;
 }
 #gen-ser-micro .ser-card {
   display: flex;
@@ -11429,6 +11442,7 @@ nav {
   padding: 0.5em 1em;
   border-radius: 10px;
   overflow-y: scroll;
+  padding: 3em;
 }
 #popout i {
   font-size: 3em;
@@ -11440,14 +11454,13 @@ nav {
 }
 #popout .title {
   text-decoration: underline;
-  text-align: center;
 }
 #popout ul {
   padding: 0.5em;
 }
 
 .tan-bg {
-  background-color: #EEC094;
+  background-color: #DEE1DE;
 }
 
 #contact {
@@ -11474,13 +11487,15 @@ nav {
 }
 
 #recruitment .active {
-  background-color: rgb(222, 225, 222);
+  background-color: #5e918f;
+  stroke: white;
+  color: white;
 }
 
 #recruit-tags {
-  background-color: #5e918f;
-  color: white;
-  stroke: white;
+  background-color: rgb(222, 225, 222);
+  color: black;
+  stroke: black;
 }
 
 .recruit-icon {
