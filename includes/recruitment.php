@@ -1,5 +1,5 @@
 <div class="container-sm" id="recruitment">
-    <h1>Recruitment</h1>
+    <h1>Talent Aquisition</h1>
     <div class="container-sm text-center p-5">
     Whether you need assistance in developing interview questions or help from start (recruitment) to finish (making the job offer), Turner HR Services can assist you in finding the right person for your job opening.
 
